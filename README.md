@@ -1,5 +1,5 @@
 # banner.c
-A program to display file content as a banner in a terminal made in c.
+A program to display file content as a banner in a terminal, made in c.
 
 ## Compile:
 ```
